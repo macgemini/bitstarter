@@ -1,0 +1,152 @@
+commit f4dee3ce13493d5939a4ee84fec67f3abd7807e4
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 31 00:38:25 2013 +0200
+
+    name changed
+
+commit 030fd7750500fa538c2318e0d69ed64fb9872daa
+Author: macgemini <gememacks@gmail.com>
+Date:   Tue Jul 30 15:53:34 2013 +0200
+
+    text
+
+commit 492713df8f952971196d4d80bd28c6bb2ae77ff2
+Author: macgemini <gememacks@gmail.com>
+Date:   Tue Jul 30 15:29:33 2013 +0200
+
+    added colon in line 134
+
+commit 6c353c0abb435c8e8492e22fec1decdbbdec1407
+Author: mac <mac@mac-gem.(none)>
+Date:   Thu Jul 18 13:52:13 2013 +0200
+
+    new template of the website
+
+commit 59b4875f170450502bf1ff7228e6fb3e67164347
+Author: mac <mac@mac-gem.(none)>
+Date:   Thu Jul 18 13:51:23 2013 +0200
+
+    draft version of the website
+
+commit a796f5ef8e81d5caa0562c9096b6ea20b616318f
+Author: mac <mac@mac-gem.(none)>
+Date:   Thu Jul 18 11:48:59 2013 +0200
+
+    index hw3 renamed
+
+commit 443bff34c01340b4dfb604d84acb8b42323c0e2f
+Author: mac <mac@mac-gem.(none)>
+Date:   Thu Jul 18 11:48:22 2013 +0200
+
+    new bitstarter defautl page added
+
+commit 8a1595afa80fde43cd41f5f866306de02fcd5991
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 12:34:35 2013 +0200
+
+    added hw3 part3 files
+
+commit 97ddcc77dbd2a4441d9cb8509053467dd04ce508
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 03:01:22 2013 +0200
+
+    hw3 part2
+
+commit e0567d41c72390197574102db3a7fb1218dc2592
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 02:34:11 2013 +0200
+
+    change index.html
+
+commit 126f80477b219b33b0a78db9ce095705550b33c5
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 02:32:15 2013 +0200
+
+    hw4
+
+commit 66dfcfeb962fc66d5acc41949f6a3bddc3ededed
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 02:05:22 2013 +0200
+
+    change4
+
+commit cc94e6fce28e7c0af2df6978c8317a35079ecd28
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 02:03:19 2013 +0200
+
+    change3
+
+commit 7f3fb06428808789e873524f3043d189347f0257
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:58:04 2013 +0200
+
+    change2
+
+commit 20eeac29bac5c4de5d5766eb80ce653891e3e539
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:53:33 2013 +0200
+
+    change1
+
+commit 7a1358b7ff96dd974e97ead9c9547b0f90e3eca2
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:43:58 2013 +0200
+
+    hw1
+
+commit d8f15e450c50c73b83ea21d93b77457420610493
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:42:00 2013 +0200
+
+    test
+
+commit a98d2bad20bc05773f3049105ddcdea252b54269
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:28:46 2013 +0200
+
+    Added index.html
+
+commit 9d52e715b918d46722b3e4945c7f3574039accd6
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:16:16 2013 +0200
+
+    Homework
+
+commit 13120107f8bbdec1e91791abe80ff3f7b6c71614
+Author: macgemini <gememacks@gmail.com>
+Date:   Wed Jul 10 01:11:10 2013 +0200
+
+    Updated web.js
+
+commit 950a10a7020a48cbdbf62b1311f5dd0c768c3675
+Merge: 90fd58e e1e21ec
+Author: Mark Pundsack <mp@heroku.com>
+Date:   Tue Jul 9 07:13:19 2013 -0700
+
+    Merge pull request #7 from samccone/sjs/fix-example-app
+    
+    Sjs/fix example app
+
+commit e1e21ec2a8ad1538df07bb5ef76b2330a61117ad
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:46:26 2013 -0400
+
+    update package.json
+
+commit 437f90161a488db5f919fdd583a735ffc9628f78
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:45:58 2013 -0400
+
+    ignore node_modules with .gitignore
+
+commit 4b88103904d274f7fae8968861588f06fd447f12
+Author: Sam Saccone <samccone@gmail.com>
+Date:   Fri Jul 5 16:45:38 2013 -0400
+
+    remove node_modules folder from repo
+
+commit 90fd58e343c29e54fc1d4e19036595500b2bdc21
+Author: Mark Pundsack <mp@heroku.com>
+Date:   Thu Aug 16 21:11:09 2012 -0700
+
+    init
